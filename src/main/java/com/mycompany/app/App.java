@@ -40,6 +40,7 @@ public class App
     public static void main( String[] args ) throws IOException, InterruptedException
     {
     	int status = 0;
+    	System.out.println("New push message");
     	
     	/**********************************************************************/
         SwingControlDemo swingControlDemo = new SwingControlDemo();  
